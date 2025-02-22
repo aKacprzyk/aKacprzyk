@@ -1,4 +1,4 @@
-## Hello there 👋, my name is Aleksandra Kacprzyk.
+## Hello there 👋, my name is Aleksandra Kacprzyk
 
 #### About me:
 I'm a master student, who just entered the world of Big Data. My goal is to learn and to experience as much as possible.
